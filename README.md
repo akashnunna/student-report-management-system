@@ -30,7 +30,4 @@ All data is saved in:
 - Alphanumeric for roll numbers  
 - Digits (including float values) for marks  
 
----
-
-## 🗂 Project Structure
 
